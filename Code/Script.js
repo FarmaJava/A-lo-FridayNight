@@ -22,12 +22,12 @@ let groupLeft;
 let groupRight;
 
 function preload() {
-    Fondo = loadImage("https://cdn.discordapp.com/attachments/599047401918955562/1258391880006111242/wallpaperflare.com_wallpaper.jpg?ex=672ea603&is=672d5483&hm=f1f112c5381f4cca890bdacc186e277c451b2c949e0754cee93d2c735b0fe5d7&")
+    Fondo = loadImage("Code/wallpaperflare.com_wallpaper.jpg")
     
-    imgUp = loadImage("https://cdn.discordapp.com/attachments/599047401918955562/1258507883650486334/arrow_up_light.png?ex=672e694d&is=672d17cd&hm=3ef934c7a095dc6fddb03d8dd65e906d8d97cc0db0256ee8988e15388c2cc559&")
-    imgDown = loadImage("https://cdn.discordapp.com/attachments/599047401918955562/1258507883843289199/arrow_down_light.png?ex=672e694d&is=672d17cd&hm=03d494efb346cd9b194775d758d5d9c7b072c2ba27827439f0352e06e49ad47d&")
-    imgLeft = loadImage("https://cdn.discordapp.com/attachments/599047401918955562/1258507883214143601/arrow_left_light.png?ex=672e694d&is=672d17cd&hm=b476e4204b59aecc4c881850d86c71007fbbac50d126ef165e1157656e2545b5&")
-    imgRight = loadImage("https://cdn.discordapp.com/attachments/599047401918955562/1258507883440767016/arrow_right_light.png?ex=672e694d&is=672d17cd&hm=334f00b03965c797dfd2d2f468f9158f48e47c161062e955cdd3036eaf1ad67a&")
+    imgUp = loadImage("Code/arrow_up_light.png")
+    imgDown = loadImage("Code/arrow_down_light.png")
+    imgLeft = loadImage("Code/arrow_left_light.png")
+    imgRight = loadImage("Code/arrow_right_light.png")
 }
 
 
